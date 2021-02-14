@@ -1,0 +1,45 @@
+---------------------the main objective of this script is to develop a 1 year long investment plan that aims to return 50 percent of our asset annually
+
+
+
+--------------storing database side: store lowest price of each stock all years, last 1 year and average volume
+
+
+---- for big cap company, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------- filter 1: identify if stock is heading downward until today 
+
+downward algorithm:
+
+        1, starting with current price
+        2, retrack backward to include previous in monthly basis
+
+
+
+----------------- filter 2: cycle analyzer? 
+
+----------------- filter 3: historical lowest point ?
+
+----------------- filter 4: historical volume upbeats !!!!
+
+----------------- filter 5: correlation of the individual with the macro trend
+                        |
+                        |
+                        |
+                        |
+                        v
+----------------- probability calculation ?
